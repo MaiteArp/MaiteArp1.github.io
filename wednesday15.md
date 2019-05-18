@@ -1,5 +1,8 @@
 ### wednesday 15th ###
 
+[README](./README.md)
+[friday17](./friday17.md)
+
 * pwd - Display current dir
 * ls - list content
 * cd - change dir

@@ -1,4 +1,8 @@
 ### Friday 17th ### 
+
+[README](./README.md)
+[wednesday15](./wednesday15.md)
+
 All about git 
 
 aite$ pwd
@@ -72,4 +76,3 @@ remote: Resolving deltas: 100% (1/1), completed with 1 local object.
 To https://github.com/MaiteArp/MaiteArp1.github.io.git
    ca9cadb..8ae5e80  master -> master
 
-   
