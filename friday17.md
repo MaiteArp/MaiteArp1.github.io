@@ -1,7 +1,7 @@
-### Friday 17th ### 
+## Friday 17th ## 
 
-[monday](./monday.md)
 [README](./README.md)
+[monday](./monday.md)
 [wednesday15](./wednesday15.md)
 
 All about git 

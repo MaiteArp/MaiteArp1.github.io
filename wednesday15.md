@@ -1,7 +1,7 @@
-### wednesday 15th ###
+## wednesday 15th ##
 
-[monday](./monday.md)
 [README](./README.md)
+[monday](./monday.md)
 [friday17](./friday17.md)
 
 * pwd - Display current dir
