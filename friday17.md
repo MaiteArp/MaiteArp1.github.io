@@ -3,6 +3,7 @@
 [README](./README.md)
 [monday](./monday.md)
 [wednesday15](./wednesday15.md)
+[learned](./learned.md)
 
 All about git 
 

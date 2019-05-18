@@ -3,6 +3,7 @@
 [README](./README.md)
 [wednesday15](./wednesday15.md)
 [friday17](./friday17.md)
+[learned](./learned.md)
 
 # Growth Mindset #
 Growth Mindset is realizing that everyone can learn a new skill, and improve upon something they know with practice and effort.

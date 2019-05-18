@@ -3,6 +3,7 @@
 [README](./README.md)
 [monday](./monday.md)
 [friday17](./friday17.md)
+[learned](./learned.md)
 
 * pwd - Display current dir
 * ls - list content
