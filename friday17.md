@@ -1,5 +1,6 @@
 ### Friday 17th ### 
 
+[monday](./monday.md)
 [README](./README.md)
 [wednesday15](./wednesday15.md)
 
