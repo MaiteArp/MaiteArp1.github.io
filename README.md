@@ -16,7 +16,7 @@ carreer. So that's me... in a nutshell, for more details find me.
 
 [GitHub](http://github.com/MaiteArp)
 
-### wednesday 15th###
+### wednesday 15th ###
 
 * pwd - Display current dir
 * ls - list content
