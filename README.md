@@ -26,3 +26,5 @@ carreer. So that's me... in a nutshell, for more details find me.
 * (..) - parent dir
 * (/) - absolute path 
 * sudo apt-get upgrade - gets updates 
+
+### Friday 17th 
