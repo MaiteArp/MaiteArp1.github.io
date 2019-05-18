@@ -1,3 +1,6 @@
+[wednesday15](./wednesday15.md)
+[friday17](./friday17.md)
+
 # Growth Mindset #
 Growth Mindset is realizing that everyone can learn a new skill, and improve upon something they know with practice and effort.
 
@@ -16,15 +19,4 @@ carreer. So that's me... in a nutshell, for more details find me.
 
 [GitHub](http://github.com/MaiteArp)
 
-### wednesday 15th ###
 
-* pwd - Display current dir
-* ls - list content
-* cd - change dir
-* ~ - shortcut to home 
-* (.) - current dir
-* (..) - parent dir
-* (/) - absolute path 
-* sudo apt-get upgrade - gets updates 
-
-### Friday 17th 
