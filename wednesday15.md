@@ -3,6 +3,9 @@
 [README](./README.md)
 [monday](./monday.md)
 [friday17](./friday17.md)
+[saturdayhtml](./saturdayhtml.md)
+[saturdaycss](./saturdaycss.md)
+[saturdayjs](./saturdayjs.md)
 [learned](./learned.md)
 
 * pwd - Display current dir
