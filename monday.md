@@ -6,6 +6,7 @@
 [saturdayhtml](./saturdayhtml.md)
 [saturdaycss](./saturdaycss.md)
 [saturdayjs](./saturdayjs.md)
+[monday20](./monday20.md)
 [learned](./learned.md)
 
 # Growth Mindset #

@@ -7,6 +7,7 @@
 [friday17](./friday17.md)
 [saturdayhtml](./saturdayhtml.md)
 [saturdaycss](./saturdaycss.md)
+[monday20](./monday20.md)
 [learned](./learned.md)
 
 
