@@ -9,6 +9,7 @@
 [saturdayhtml](./saturdayhtml.md)
 [saturdaycss](./saturdaycss.md)
 [saturdayjs](./saturdayjs.md)
+[wednesday22](./wednesday22.md)
 [learned](./learned.md)
 
 ## ABC of Programming 

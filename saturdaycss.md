@@ -8,6 +8,7 @@
 [saturdayhtml](./saturdayhtml.md)
 [saturdayjs](./saturdayjs.md)
 [monday20](./monday20.md)
+[wednesday22](./wednesday22.md)
 [learned](./learned.md)
 
 ### Jon Duckett ###
