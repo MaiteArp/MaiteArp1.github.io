@@ -1,14 +1,3 @@
-
-[monday](./monday.md)
-[wednesday15](./wednesday15.md)
-[friday17](./friday17.md)
-[saturdayhtml](./saturdayhtml.md)
-[saturdaycss](./saturdaycss.md)
-[saturdayjs](./saturdayjs.md)
-[monday20](./monday20.md)
-[wednesday22](./wednesday22.md)
-[learned](./learned.md)
-
 # This is ME #
 
 ![wolf](/wolf.jpg)
